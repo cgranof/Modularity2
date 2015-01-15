@@ -1,0 +1,146 @@
+.square-box {
+	text-align: center;
+}
+
+.box { 
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.box-text {
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 20px;
+}
+
+.small-container {
+	height: 300px;
+	line-height: 300px;
+	vertical-align: middle;
+}
+
+.horizontal-list {
+	display: inline;
+}
+
+.container2 {
+	height: 200px;
+	padding-top: 20%;
+}
+
+.button1 {
+	display: inline-block;
+	background-color: pink;
+	color: white;
+	padding: 20px 35px;
+	border-radius: 5px;
+	font-size: 20px; 
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.button2 {
+	display: inline-block;
+	background-color: pink;
+	color: white;
+	padding: 15px 25px;
+	border-radius: 5px;
+	font-size: 15px; 
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.button3 {
+	display: inline-block;
+	background-color: pink;
+	color: white;
+	padding: 5px 15px;
+	border-radius: 5px;
+	font-size: 10px; 
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.button4 {
+	display: inline-block;
+	background-color: pink;
+	color: white;
+	padding: 15px 25px;
+	border-radius: 5px;
+	font-size: 15px; 
+	font-weight: bold;
+	text-decoration: none;
+	border: none;
+	box-shadow: none;
+}
+
+.navbar ul {
+	list-style: none;
+	margin: 0;
+	padding: 20px;
+	background-color: pink;
+	/*width: 600px;*/
+	border-radius:  5px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.navbar li {
+	display: inline;
+	color: white; 
+	padding: 40px;
+}
+
+.navbar a {
+	color: white;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	color: #F90;
+}
+
+.pagination ol {
+	list-style: none;
+	
+}
+
+.pagination li {
+	display: inline;
+}
+
+.pagination a {
+	color: pink;
+	padding: 10px;
+	
+}
+
+.pagination a:hover {
+	color: grey;
+}
+
+.pagination span {
+	color: grey;
+	padding: 10px;
+	text-decoration: underline;
+}
+
+.stream {
+	float: left;
+	display: inline-block;
+	clear: left;
+	padding: 5px
+}
+
+.stream1 {
+	float: left;
+	clear: left;
+	padding: 5px;
+}
+
+.stream-comment {
+	text-align: top;
+	display: inline-block;
+	clear: both;
+}
